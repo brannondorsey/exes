@@ -1,0 +1,4 @@
+- Have an opinion.Don't deploy something that I am indifferent about.
+- Think about me as an ex vs my ex as the ex.
+- Two parts. First is objective, second is subjective.
+- What is my responsibility here? Scientists are going to do this anyway.
