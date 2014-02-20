@@ -16,17 +16,19 @@ Many of the themes that this project presents; ones of computer-mediated communi
 
 The heavy lifting in this project will be almost entirely JavaScript. Basic client-side code will be handled by libraries like jQuery and possibly canvas manipulation with KineticJS. MongoDB will be used for storage and Node js for the custom artificial intelligence framework as well as basic server-side code. 
 
-Bots will utilize Markov chains for generating personalized text based on prior messages. Some open source attempts already exist which will speed up the process of developing a model to fit the projects needs (see [Cobe](https://github.com/pteichman/cobe) and [tripli-ng](https://github.com/spion/triplie-ng))
+~~Bots will utilize Markov chains for generating personalized text based on prior messages.~~ Some open source attempts already exist which will speed up the process of developing a model to fit the projects needs (see [Cobe](https://github.com/pteichman/cobe) and [tripli-ng](https://github.com/spion/triplie-ng))
 
 
 ##Algorithm
 
-Note: The following proposed algorithm is written from the perspective of a human male communication with an artificially intelligent female. Humans of any sex will be able to conduct discourse with AIs of any sex.
+Algorithm overview has been moved [here](https://github.com/brannondorsey/exchatter/blob/master/proposed_algorithm.md).
 
-1. Run [discourse analysis](http://en.wikipedia.org/wiki/Discourse_analysis) (DA) and [topic segmentation and recognition](http://en.wikipedia.org/wiki/Topic_segmentation) (TSR) on the input.
+~~Note: The following proposed algorithm is written from the perspective of a human male communication with an artificially intelligent female. Humans of any sex will be able to conduct discourse with AIs of any sex.~~
+
+~~1. Run [discourse analysis](http://en.wikipedia.org/wiki/Discourse_analysis) (DA) and [topic segmentation and recognition](http://en.wikipedia.org/wiki/Topic_segmentation) (TSR) on the input.
 2. Run output from 1. against a database of all messages from the men that the ex bot has messaged to find similar prompts. Have a rating system that scores by similarity and use the girl's responses from the highest rated results as __source texts__.
 3. Generate thousands of responses based on __source texts__. 70% of these responses should be taken from the woman's messages with her lover and 30% from her entire corpus. Use DA and TSR on the generated responses and select only the statements that fit the desired response type.
-4. Order responses from 3 (somehow) and output the most appropriate one to the user.
+4. Order responses from 3 (somehow) and output the most appropriate one to the user.~~
 
 ##Themes
 
