@@ -10,7 +10,7 @@
 - (Essay) [Turing Test, Etc.](http://www.gigamonkeys.com/resume/turing.html), Peter Seibel, 1993
 - (Radio) [Talking to Machines](http://www.radiolab.org/story/137407-talking-to-machines/), Radiolab
 - (Book) [Alone Together](http://www.amazon.com/Alone-Together-Expect-Technology-Other/dp/0465031463), Sherry Turkle, 2011
-- (Book) [Love + Sex With Robots], David Levy, 2006
+- (Book) [Love + Sex With Robots](http://www.amazon.com/Love-Sex-Robots-Human-Robot-Relationships/dp/0061359807), David Levy, 2006
 
 ##Art
 - [I want you to want me](http://iwantyoutowantme.org/), Jonathan Harris and Sep Kamvar, 2008
@@ -34,10 +34,11 @@
 - [Jaro-Winkler Distance](http://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
 - [N-gram](http://en.wikipedia.org/wiki/N-gram) (unigram, bigram, trigram, etc...)
 - [TL-IDF](http://en.wikipedia.org/wiki/Tf%E2%80%93idf)
-- Classifiers
+- Classifiers (see [this overview](http://nlpwp.org/book/chap-classification.xhtml))
 	- [Naive Bayes](http://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 	- [Support Vector Machine](http://en.wikipedia.org/wiki/Support_vector_machine)
 	- [Neural Network](http://en.wikipedia.org/wiki/Neural_network)
+	- [Stanford Classifier](http://nlp.stanford.edu/software/classifier.shtml)
 - Stemmers
 	- [Porter Stemmer](http://tartarus.org/martin/PorterStemmer/index.html)
 	- [Lancaster Stemmer](http://www.comp.lancs.ac.uk/computing/research/stemming/)
