@@ -5,12 +5,15 @@
 - (Movie) [Her](http://www.imdb.com/title/tt1798709/) by Spike Jonze, 2013
 - (Article) [Romance at Arms Length](http://www.nytimes.com/2014/02/09/sunday-review/romance-at-arms-length.html?_r=0), The New York Times, 2014
 - (Article) [What Facebook knows about love, in numbers](http://articles.economictimes.indiatimes.com/2014-02-15/news/47358957_1_facebook-data-mike-develin-what-facebook), The Economic Times, 2014
-- (Articles) [Predicting Love and Breakups With Facebook Data](http://techcrunch.com/2014/02/14/facebook-love-data/), Tech Crunch, 2014
+- (Articles) [Predicting Love and Breakups With Facebook Data](http://techcrunch.com/- 2014/02/14/facebook-love-data/), Tech Crunch, 2014
+- (Article) [We've Lost That Love Feeling](http://idibon.com/weve-lost-that-lovin-feelin/)
+- (Article) [Why is sentiment analysis hard?](http://idibon.com/why-is-sentiment-analysis-hard/)
 - (Essay) [Even in Real Life, There Were Screens Between Us](http://www.nytimes.com/2011/05/01/fashion/01Modern.html?pagewanted=all&_r=0), Caitlin Dewey, 2011
 - (Essay) [Turing Test, Etc.](http://www.gigamonkeys.com/resume/turing.html), Peter Seibel, 1993
 - (Radio) [Talking to Machines](http://www.radiolab.org/story/137407-talking-to-machines/), Radiolab
 - (Book) [Alone Together](http://www.amazon.com/Alone-Together-Expect-Technology-Other/dp/0465031463), Sherry Turkle, 2011
-- (Book) [Love + Sex With Robots](http://www.amazon.com/Love-Sex-Robots-Human-Robot-Relationships/dp/0061359807), David Levy, 2006
+- (Book) [Love + Sex With Robots](http://www.amazon.com/Love-Sex-Robots-Human-Robot-Relationships/dp/0061359807), David Levy, 20
+
 
 ##Art
 - [I want you to want me](http://iwantyoutowantme.org/), Jonathan Harris and Sep Kamvar, 2008
@@ -43,7 +46,12 @@
 	- [Porter Stemmer](http://tartarus.org/martin/PorterStemmer/index.html)
 	- [Lancaster Stemmer](http://www.comp.lancs.ac.uk/computing/research/stemming/)
 
+###Lexicons, Corpuses, and Databases
+
+- [WordNet](http://wordnet.princeton.edu/) (try [wordvis](http://wordvis.com/))
+
 ###JavaScript Libraries
 
 - [node-natural](https://github.com/NaturalNode/natural)
+- [opinion-lexicon](https://www.npmjs.org/package/opinion-lexicon)
 - [WordNet](https://github.com/moos/WNdb)
