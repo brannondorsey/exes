@@ -54,4 +54,5 @@
 
 - [node-natural](https://github.com/NaturalNode/natural)
 - [opinion-lexicon](https://www.npmjs.org/package/opinion-lexicon)
+- [sentiment](https://www.npmjs.org/package/sentiment)
 - [WordNet](https://github.com/moos/WNdb)
