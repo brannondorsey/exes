@@ -8,17 +8,29 @@
 - (Articles) [Predicting Love and Breakups With Facebook Data](http://techcrunch.com/- 2014/02/14/facebook-love-data/), Tech Crunch, 2014
 - (Article) [We've Lost That Love Feeling](http://idibon.com/weve-lost-that-lovin-feelin/)
 - (Article) [Why is sentiment analysis hard?](http://idibon.com/why-is-sentiment-analysis-hard/)
+- (Article) [10 Tricks That Chatbots Use to Make You Believe They're Human](http://io9.com/5901579/10-tricks-that-chatbots-use-to-make-you-believe-theyre-human)
 - (Essay) [Even in Real Life, There Were Screens Between Us](http://www.nytimes.com/2011/05/01/fashion/01Modern.html?pagewanted=all&_r=0), Caitlin Dewey, 2011
 - (Essay) [Turing Test, Etc.](http://www.gigamonkeys.com/resume/turing.html), Peter Seibel, 1993
+- (Paper) [Computing Machinery and Intelligence](http://www.csee.umbc.edu/courses/471/papers/turing.pdf), Alan Turing, 1950
 - (Radio) [Talking to Machines](http://www.radiolab.org/story/137407-talking-to-machines/), Radiolab
 - (Book) [Alone Together](http://www.amazon.com/Alone-Together-Expect-Technology-Other/dp/0465031463), Sherry Turkle, 2011
 - (Book) [Love + Sex With Robots](http://www.amazon.com/Love-Sex-Robots-Human-Robot-Relationships/dp/0061359807), David Levy, 20
-
+- (Event) [Annual Loebner Prize Turing Test Competition](http://www.loebner.net/Prizef/loebner-prize.html)
 
 ##Art
+
 - [I want you to want me](http://iwantyoutowantme.org/), Jonathan Harris and Sep Kamvar, 2008
 - [The Dumpster](http://www.flong.com/projects/dumpster/), Golan Levin, Kamal Nigam and Jonathan Feinberg, 2006
 - [When art meets online dating](http://www.theatlantic.com/video/archive/2013/09/when-art-meets-online-dating/279926/), R. Luke Dubois, 2013
+
+
+##Chat Bots
+
+- [Eliza](http://en.wikipedia.org/wiki/ELIZA) (talk [here](http://nlp-addiction.com/eliza/))
+- [Cleverbot](http://en.wikipedia.org/wiki/Cleverbot) (talk [here](http://www.cleverbot.com/))
+- [Jabberwacky](http://en.wikipedia.org/wiki/Jabberwacky) (talk [here](http://www.jabberwacky.com/))
+- [Alice](http://en.wikipedia.org/wiki/Artificial_Linguistic_Internet_Computer_Entity) (talk [here](http://alice.pandorabots.com/))
+- [Mitsuku](http://en.wikipedia.org/wiki/Mitsuku) (talk [here](http://www.mitsuku.com/))
 
 ##Technical
 
